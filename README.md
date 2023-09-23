@@ -1,9 +1,6 @@
 # ✋ Hi there, I'm Yousof
 
-<div align="left">
-    <picture align="right">
-        <img align="right" width="340em" height="340em" src="https://raw.github.com/MrYazdan/MrYazdan/main/tech.gif">
-    </picture>
+
 <br>
      
 🌱  &nbsp;I’m currently learning **PYTHON,DJANGO**
@@ -15,7 +12,7 @@
 
  <br>
 
- ## 🛠 &nbsp;Tech Stack
+ ## 🛠 &nbsp;Learning
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
