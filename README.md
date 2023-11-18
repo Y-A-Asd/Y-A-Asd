@@ -16,7 +16,7 @@ Here are some technologies and tools I work with:
 - PostgreSQL
 
 
-##🌱 Current Status
+## 🌱 Current Status
 
 🌱 Learning Django and JavaScript  
 
