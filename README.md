@@ -19,9 +19,13 @@ Here are some technologies and tools I work with:
 ##🌱 Current Status
 
 🌱 Learning Django and JavaScript  
+
 💻 Working on Backend
+
 🤔 Exploring new technologies and frameworks  
+
 📚 Reading "The Pragmatic Programmer"
+
 🎓 Student at University of Guilan, Computer Science
 
 
