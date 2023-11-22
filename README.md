@@ -11,7 +11,8 @@ Here are some technologies and tools I work with:
 - Linux (Arch enthusiast)
 - Git
 - Bash (Basic)
-- HTML & CSS (Basic)
+- HTML & CSS
+- Tailwind
 - C
 - PostgreSQL
 
