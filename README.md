@@ -30,7 +30,7 @@ Here are some technologies and tools I work with:
 🎓 Student at University of Guilan, Computer Science
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-A-Asd&show_icons=true&theme=synthwave)](https://github.com/Y-A-Asd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-A-As&show_icons=true&theme=synthwave)](https://github.com/Y-A-Asd/github-readme-stats)
 
 
 
