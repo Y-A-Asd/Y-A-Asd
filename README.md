@@ -1,6 +1,6 @@
 # Hi, I'm Yousof A. Asadi 👋
 
-I'm a 20-year-old aspiring developer passionate about coding, Linux, and exploring the realms of Artificial Intelligence. Currently, I'm on a journey to become a Full Stack Developer while delving into the exciting world of Django and Python.
+I'm a 20-year-old aspiring developer passionate about coding and Linux. Currently, I'm on a journey to become a Full Stack Developer while delving into the exciting world of Django and Python.
 
 ## 🔧 Technologies & Tools
 
