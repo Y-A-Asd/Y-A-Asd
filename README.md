@@ -7,10 +7,10 @@ I'm a 20-year-old aspiring developer passionate about coding and Linux. Currentl
 Here are some technologies and tools I work with:
 
 - Python
-- Django (In Progress)
+- Django 
 - Linux (Arch enthusiast)
 - Git
-- Bash (Basic)
+- Bash
 - HTML & CSS
 - Tailwind
 - C
@@ -21,11 +21,9 @@ Here are some technologies and tools I work with:
 
 🌱 Learning Django and JavaScript  
 
-💻 Working on Backend
+💻 Working on Back-end
 
 🤔 Exploring new technologies and frameworks  
-
-📚 Reading "The Pragmatic Programmer"
 
 🎓 Student at University of Guilan, Computer Science
 
